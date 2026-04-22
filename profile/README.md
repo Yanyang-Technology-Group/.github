@@ -18,14 +18,13 @@
 
 ## 👥 核心成员
 
-<!-- 请将下方的 GitHub 用户名替换为实际用户名，头像和链接会自动生成 -->
 | 成员 | 角色 | 主要贡献领域 | 一句话介绍 |
 | :--- | :--- | :--- | :--- |
-| <a href="https://github.com/username1"><img src="https://github.com/username1.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 | 软件开发 / 网络技术 | 定方向、写核心、挖新坑。 |
-| <a href="https://github.com/username2"><img src="https://github.com/username2.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / IT | 硬件管理 / 资金管理 | 伟大的服务器管理者。 |
-| <a href="https://github.com/username3"><img src="https://github.com/username3.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端主要开发 | 网站 / 技术支持 | 让晏阳网站变得更加美观。 |
-| <a href="https://github.com/username3"><img src="https://github.com/username3.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 晏阳建模师 | 用最简单的软件做最细腻的模型。 |
-| <a href="https://github.com/username3"><img src="https://github.com/username3.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端辅助开发 | 网站 / 技术支持 | 让晏阳网站功能更多、细节更多。 |
+| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 | 软件开发 / 网络技术 | 定方向、写核心、挖新坑。 |
+| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / IT | 硬件管理 / 资金管理 | 伟大的服务器管理者。 |
+| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端主要开发 | 网站 / 技术支持 | 让晏阳网站变得更加美观。 |
+| <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 晏阳建模师 | 建模 | 用最简单的软件做最细腻的模型。 |
+| <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端辅助开发 | 网站 / 技术支持 | 让晏阳网站功能更多、细节更多。 |
 
 > 💡 成员列表持续更新中。欢迎未来的你加入此表！
 
