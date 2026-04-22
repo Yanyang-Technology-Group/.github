@@ -2,9 +2,9 @@
 
 > **创新为骨，代码为韵** —— 打造优雅、高效、开源的数字工具。
 
-[![GitHub Org Followers](https://img.shields.io/github/followers/Yanyang-Technology-Group?style=social)](https://github.com/Yanyang-Technology-Group)
-[![开源协议](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](./LICENSE)
-[![团队愿景](https://img.shields.io/badge/愿景-创造卓越科技-6A5ACD)](https://github.com/Yanyang-Technology-Group)
+[![GitHub Org Followers](https://img.shields.io/github/followers/Yanyang-Technology-Group?style=social)](https://github.com/Yanyang-Technology-Group) 
+[![开源协议](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](./LICENSE) 
+[![团队愿景](https://img.shields.io/badge/愿景-创造卓越科技-6A5ACD)](https://github.com/Yanyang-Technology-Group) 
 
 ---
 
@@ -52,6 +52,18 @@
 除非另有说明，本组织所有项目均采用 **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**。  
 自由使用，保持开放。
 
+---
+
+## 📈 开发路线
+
+- [x] 邮箱客户端三版迭代 (Python → C++)  
+- [x] 城建官网上线  
+- [ ] 跨平台晏阳启动器
+- [ ] 晏阳各机关官网上线 
+- [ ] ...
+
+---
+
 ## 👥 核心成员
 
 ---
@@ -65,16 +77,6 @@
 | <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端辅助开发 | 网站 / 技术支持 | 让晏阳网站功能更多、细节更多。 |
 
 > 💡 成员列表持续更新中。欢迎未来的你加入此表！
-
----
-
-## 📈 开发路线
-
-- [x] 邮箱客户端三版迭代 (Python → C++)  
-- [x] 城建官网上线  
-- [ ] 跨平台晏阳启动器
-- [ ] 晏阳各机关官网上线 
-- [ ] ...
 
 ---
 
