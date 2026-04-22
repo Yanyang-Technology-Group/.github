@@ -16,6 +16,21 @@
 
 ---
 
+## 👥 核心成员
+
+<!-- 请将下方的 GitHub 用户名替换为实际用户名，头像和链接会自动生成 -->
+| 成员 | 角色 | 主要贡献领域 | 一句话介绍 |
+| :--- | :--- | :--- | :--- |
+| <a href="https://github.com/username1"><img src="https://github.com/username1.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 | 软件开发 / 网络技术 | 定方向、写核心、挖新坑。 |
+| <a href="https://github.com/username2"><img src="https://github.com/username2.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / IT | 硬件管理 / 资金管理 | 伟大的服务器管理者。 |
+| <a href="https://github.com/username3"><img src="https://github.com/username3.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端主要开发 | 网站 / 技术支持 | 让晏阳网站变得更加美观。 |
+| <a href="https://github.com/username3"><img src="https://github.com/username3.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 晏阳建模师 | 用最简单的软件做最细腻的模型。 |
+| <a href="https://github.com/username3"><img src="https://github.com/username3.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端辅助开发 | 网站 / 技术支持 | 让晏阳网站功能更多、细节更多。 |
+
+> 💡 成员列表持续更新中。欢迎未来的你加入此表！
+
+---
+
 ## 🚀 核心项目
 
 | 项目名称 | 技术栈 | 一句话简介 |
@@ -23,7 +38,7 @@
 | [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | JavaScript | 晏阳城市建设官网源码 — 现代、轻量、响应式。 |
 | [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | C++ | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 |
 | [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | C++ | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 |
-| [Yanyn_Email.PyReNewCode](https://github.com/Yang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 |
+| [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 |
 | [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 |
 | [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | Python | 初代晏阳邮箱 — 初心之作。 |
 
