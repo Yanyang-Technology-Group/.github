@@ -16,17 +16,19 @@
 
 ---
 
-## 👥 核心成员
+## 🧰 技术生态
 
-| 成员 | 角色 | 主要贡献领域 | 一句话介绍 |
-| :--- | :--- | :--- | :--- |
-| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 | 软件开发 / 网络技术 | 定方向、写核心、挖新坑。 |
-| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / IT | 硬件管理 / 资金管理 | 伟大的服务器管理者。 |
-| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端主要开发 | 网站 / 技术支持 | 让晏阳网站变得更加美观。 |
-| <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 晏阳建模师 | 建模 | 用最简单的软件做最细腻的模型。 |
-| <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端辅助开发 | 网站 / 技术支持 | 让晏阳网站功能更多、细节更多。 |
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> 💡 成员列表持续更新中。欢迎未来的你加入此表！
+我们擅长：  
+- 🖥️ 桌面应用 (C++ / Qt / Python)  
+- 🌐 轻量级前端 (原生 JS + 现代CSS)  
+- 📧 网络通信与邮件协议  
+- 🎮 游戏工具链与启动器开发  
 
 ---
 
@@ -45,19 +47,24 @@
 
 ---
 
-## 🧰 技术生态
+## 📜 开源许可证
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+除非另有说明，本组织所有项目均采用 **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**。  
+自由使用，保持开放。
 
-我们擅长：  
-- 🖥️ 桌面应用 (C++ / Qt / Python)  
-- 🌐 轻量级前端 (原生 JS + 现代CSS)  
-- 📧 网络通信与邮件协议  
-- 🎮 游戏工具链与启动器开发  
+## 👥 核心成员
+
+---
+
+| 成员 | 角色 | 主要贡献领域 | 一句话介绍 |
+| :--- | :--- | :--- | :--- |
+| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 | 软件开发 / 网络技术 | 定方向、写核心、挖新坑。 |
+| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / IT | 硬件管理 / 资金管理 | 伟大的服务器管理者。 |
+| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端主要开发 | 网站 / 技术支持 | 让晏阳网站变得更加美观。 |
+| <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 晏阳建模师 | 建模 | 用最简单的软件做最细腻的模型。 |
+| <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端辅助开发 | 网站 / 技术支持 | 让晏阳网站功能更多、细节更多。 |
+
+> 💡 成员列表持续更新中。欢迎未来的你加入此表！
 
 ---
 
@@ -79,12 +86,6 @@
 - 📫 联系邮箱：`techgroup@yanyn.cn`  
 - 🌟 点亮 Star，让更多人看见开源的美好  
 
----
-
-## 📜 开源许可证
-
-除非另有说明，本组织所有项目均采用 **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**。  
-自由使用，保持开放。
 
 ---
 
