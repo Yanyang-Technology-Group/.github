@@ -21,10 +21,10 @@
 | 项目名称 | 技术栈 | 一句话简介 |
 |---------|--------|------------|
 | [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | JavaScript | 晏阳城市建设官网源码 — 现代、轻量、响应式。 |
-| [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | C++ | “A Great And Perfect Mail Client” 完美邮件客户端。 |
 | [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | C++ | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 |
-| [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱程序，重构更流畅。 |
+| [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | C++ | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 |
 | [Yanyn_Email.PyReNewCode](https://github.com/Yang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 |
+| [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 |
 | [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | Python | 初代晏阳邮箱 — 初心之作。 |
 
 > 📌 所有仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
@@ -50,10 +50,10 @@
 ## 📈 开发路线
 
 - [x] 邮箱客户端三版迭代 (Python → C++)  
-- [x] 城市官网上线  
-- [ ] 跨平台晏阳启动器 2.0 (支持插件化)  
-- [ ] 开源文档与贡献指南完善  
-- [ ] 开发者社区搭建  
+- [x] 城建官网上线  
+- [ ] 跨平台晏阳启动器
+- [ ] 晏阳各机关官网上线 
+- [ ] ...
 
 ---
 
@@ -61,8 +61,8 @@
 
 晏阳科技始终欢迎热忱的开发者、设计师与贡献者。  
 
-- 🔭 感兴趣的项目直接提 **Issue** 或 **PR**  
-- 📫 技术交流：`yanyang-tech@outlook.com` (示例邮箱)  
+- 🔭 官方网站：tech.yanyn.cn
+- 📫 联系邮箱：`techgroup@yanyn.cn`  
 - 🌟 点亮 Star，让更多人看见开源的美好  
 
 ---
