@@ -1,4 +1,4 @@
-# ✨ 晏阳科技集团 (Yanyang Technology Group)
+# ✨ 晏阳技术组 (Yanyang Technology Group)
 
 > **创新为骨，代码为韵** —— 打造优雅、高效、开源的数字工具。
 
