@@ -41,6 +41,7 @@
 | [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | C++ | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 |
 | [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | C++ | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 |
 | [YLive](https://github.com/Yanyang-Technology-Group/YLive) | Java | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 |
+| [YLive-cpp](https://github.com/Yanyang-Technology-Group/YLive-cpp) | C++ / Qt 6 | RTMP 直播推流、字幕烧录与 HLS 转码桌面工具。 |
 | [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 |
 | [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 |
 | [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | Python | 初代晏阳邮箱 — 初心之作。 |
