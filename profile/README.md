@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -45,6 +46,7 @@
 | [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 |
 | [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 |
 | [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | Python | 初代晏阳邮箱 — 初心之作。 |
+| [ColorfulSign](https://github.com/Yanyang-Technology-Group/ColorfulSign) | Kotlin / Paper API | Minecraft Paper 插件，聊天 Team 前缀后缀与旧式格式码支持。 |
 
 > 📌 所有仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
 
