@@ -27,8 +27,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 我们擅长：  
-- 🖥️ 桌面应用 (C++ / Qt / Python)  
-- 🌐 轻量级前端 (原生 JS + 现代CSS)  
+- 🖥️ 桌面应用
+- 🌐 轻量级前端  
 - 📧 网络通信与邮件协议  
 - 🎮 游戏工具链与启动器开发  
 
