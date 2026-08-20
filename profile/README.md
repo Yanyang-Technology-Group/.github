@@ -47,6 +47,7 @@
 | [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 |
 | [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | Python | 初代晏阳邮箱 — 初心之作。 |
 | [ColorfulSign](https://github.com/Yanyang-Technology-Group/ColorfulSign) | Kotlin / Paper API | Minecraft Paper 插件，聊天 Team 前缀后缀与旧式格式码支持。 |
+| [CameraMan](https://github.com/Yanyang-Technology-Group/CameraMan) | Kotlin / Fabric API | Minecraft Fabric Mod，让你在游戏内实现真实运镜及导播 |
 
 > 📌 所有仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
 
