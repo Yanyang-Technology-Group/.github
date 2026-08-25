@@ -25,11 +25,11 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -42,7 +42,7 @@
 
 | 项目名称 | 技术栈 | 一句话简介 | 状态 |
 |---------|--------|------------|--|
-| [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
+| [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 | [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 | ![Status](https://img.shields.io/badge/开发-yellow) |
 | [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 | ![Status](https://img.shields.io/badge/开发-yellow) |
 | [YLive](https://github.com/Yanyang-Technology-Group/YLive) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
