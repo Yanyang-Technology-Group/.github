@@ -79,8 +79,8 @@
 
 | 成员 | 角色 | 主要贡献领域 | 一句话介绍 |
 | :--- | :--- | :--- | :--- |
-| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 / 子服运维 / 前端工程师 / 后端工程师 | PC端软件开发 / 部署前后端 | 定方向、写核心、挖新坑。 |
-| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / 主服运维 / 前端工程师 / 后端工程师 | MC插件、模组等开发 | 管理服务器。 |
+| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 / 子服运维 / 前端工程师 / 后端工程师 | PC端软件开发 / 网站服务器运维 | 定方向、写核心、挖新坑。 |
+| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / 主服运维 / 前端工程师 / 后端工程师 | MC插件、模组等开发 | 管理组员、服务器运维。 |
 | <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端工程师 / 后端工程师 | 网站 / 技术支持 | 让晏阳网站功能更多。 |
 | <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 建模师 | 建模 | 用最简单的软件做最细腻的模型。 |
 | <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端工程师 | 网站 / 技术支持 | 让晏阳网站细节更多。 |
