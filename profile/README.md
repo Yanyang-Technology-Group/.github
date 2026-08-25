@@ -42,15 +42,15 @@
 
 | 项目名称 | 技术栈 | 一句话简介 | 状态 |
 |---------|--------|------------|--|
-| [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | React / Vite / Tailwind / TypeScript | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-| [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | C++ / Qt 6 | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 | ![Status](https://img.shields.io/badge/开发-yellow) |
-| [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | C++ / Qt 6 | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 | ![Status](https://img.shields.io/badge/开发-yellow) |
-| [YLive](https://github.com/Yanyang-Technology-Group/YLive) | Java | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [YLive-cpp](https://github.com/Yanyang-Technology-Group/YLive-cpp) | C++ / Qt 6 | RTMP 直播推流、字幕烧录与 HLS 转码桌面工具。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-| [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | Python | 初代晏阳邮箱 — 初心之作。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [ColorfulSign](https://github.com/Yanyang-Technology-Group/ColorfulSign) | Kotlin / Paper API | Minecraft Paper 插件，聊天 Team 前缀后缀与旧式格式码支持。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
+| [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
+| [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 | ![Status](https://img.shields.io/badge/开发-yellow) |
+| [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 | ![Status](https://img.shields.io/badge/开发-yellow) |
+| [YLive](https://github.com/Yanyang-Technology-Group/YLive) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
+| [YLive-cpp](https://github.com/Yanyang-Technology-Group/YLive-cpp) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | RTMP 直播推流、字幕烧录与 HLS 转码桌面工具。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
+| [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 第三代迭代，持续打磨邮件体验。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
+| [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 第二代晏阳邮箱软件，重构更流畅。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
+| [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 初代晏阳邮箱 — 初心之作。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
+| [ColorfulSign](https://github.com/Yanyang-Technology-Group/ColorfulSign) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PaperAPI](https://img.shields.io/badge/Paper_API-1C8B9C?style=flat-square&logo=paper&logoColor=white) | Minecraft Paper 插件，聊天 Team 前缀后缀与旧式格式码支持。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 
  所有仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
 
