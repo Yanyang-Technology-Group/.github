@@ -73,7 +73,7 @@
 
 ---
 
-## 👥 核心成员
+## 核心成员
 
 ---
 
@@ -85,17 +85,17 @@
 | <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 建模师 | 建模 | 用最简单的软件做最细腻的模型。 |
 | <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端工程师 | 网站 / 技术支持 | 让晏阳网站细节更多。 |
 
-> 💡 成员列表持续更新中。欢迎未来的你加入此表！
+ 成员列表持续更新中。欢迎未来的你加入此表！
 
 ---
 
-## 🤝 加入我们
+## 加入我们
 
 晏阳科技始终欢迎热忱的开发者、设计师与贡献者。  
 
-- 🔭 官方网站：tech.yanyn.cn
-- 📫 联系邮箱：`techgroup@yanyn.cn`  
-- 🌟 点亮 Star，让更多人看见开源的美好  
+-  官方网站：tech.yanyn.cn
+-  联系邮箱：`techgroup@yanyn.cn`  
+-  点亮 Star，让更多人看见开源的美好  
 
 
 ---
