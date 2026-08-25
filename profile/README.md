@@ -45,7 +45,7 @@
 | [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | React / Vite / Tailwind / TypeScript | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 | [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | C++ / Qt 6 | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 | ![Status](https://img.shields.io/badge/开发-yellow) |
 | [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | C++ / Qt 6 | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 | ![Status](https://img.shields.io/badge/开发-yellow) |
-| [YLive](https://github.com/Yanyang-Technology-Group/YLive) | Java | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
+| [YLive](https://github.com/Yanyang-Technology-Group/YLive) | Java | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
 | [YLive-cpp](https://github.com/Yanyang-Technology-Group/YLive-cpp) | C++ / Qt 6 | RTMP 直播推流、字幕烧录与 HLS 转码桌面工具。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 | [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | Python | 第三代迭代，持续打磨邮件体验。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
 | [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | Python | 第二代晏阳邮箱软件，重构更流畅。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
