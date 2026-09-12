@@ -42,6 +42,7 @@
 
 | 项目名称 | 技术栈 | 一句话简介 | 状态 |
 |---------|--------|------------|--|
+| [YComm_WebSite](https://github.com/Yanyang-Technology-Group/YComm_WebSite) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 晏阳自托管社区平台源码 — 账号系统 / 论坛 / 下载区，单容器部署。【许可证 AGPL-V3】 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 | [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 | [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 | ![Status](https://img.shields.io/badge/开发-yellow) |
 | [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 | ![Status](https://img.shields.io/badge/开发-yellow) |
@@ -52,7 +53,7 @@
 | [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 初代晏阳邮箱 — 初心之作。 | ![Status](https://img.shields.io/badge/归档-lightgrey) |
 | [ColorfulSign](https://github.com/Yanyang-Technology-Group/ColorfulSign) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PaperAPI](https://img.shields.io/badge/Paper_API-1C8B9C?style=flat-square&logo=paper&logoColor=white) | Minecraft Paper 插件，聊天 Team 前缀后缀与旧式格式码支持。 | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
 
- 所有仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
+ 大部分仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
 
 ---
 
