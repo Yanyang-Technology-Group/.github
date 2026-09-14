@@ -1,3 +1,5 @@
+![WE ARE YTG](https://capsule-render.vercel.app/api?type=venom&height=200&text=We%20are%20Y.T.G.&fontSize=70&color=0:BFE1FF,100:b678c4&stroke=b678c4)
+
 # 晏阳技术组 (Yanyang Technology Group)
 
 > **创新为骨，代码为韵** —— 打造优雅、高效、开源的数字工具。
