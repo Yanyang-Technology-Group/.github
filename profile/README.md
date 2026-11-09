@@ -1,3 +1,100 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=We%20are%20Y.T.G.&fontSize=70&color=0:BFE1FF,100:B678C4&stroke=B678C4" alt="We are Y.T.G." width="100%">
+
+# 晏阳技术组
+
+**Yanyang Technology Group**
+
+**创新为骨，代码为韵。**
+
+从社区网站到桌面工具，从 Minecraft 创作到服务器诊断，
+用代码连接想法，让工具走进日常。
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/Yanyang-Technology-Group)
+[![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group)
+
+[官方网站](https://tech.yanyn.cn) · [项目一览](#projects) · [核心成员](#team) · [参与贡献](#contribute)
+
+</div>
+
+---
+
+## 关于我们
+
+我们是晏阳技术组，一个围绕 **社区服务、桌面应用与 Minecraft 生态** 开展创作的技术团队。我们关注实际使用中的问题，也享受把想法逐步做成作品的过程。
+
+这里既有持续迭代的社区平台、直播工具和插件，也保留了早期邮箱客户端的开发历程。欢迎浏览源码、提出建议，或和我们一起完善下一个版本。
+
+| 创作方向 | 我们在做什么 |
+| :--- | :--- |
+| 🌐 社区与网站 | 自托管社区、跨平台客户端、城市建设官网与技术组展示网站 |
+| 🧰 桌面与媒体 | 邮箱客户端、Minecraft 启动器、直播推流与字幕转码工具 |
+| 🚆 Minecraft 生态 | 轨道交通模组优化、文字格式插件与服务器性能分析 |
+
+<a id="projects"></a>
+
+## 项目一览
+
+**按用途找到你感兴趣的项目。** 每个项目均提供 GitHub 源码入口；已确认存在的平台镜像紧随其后。
+
+[社区与网站](#web) · [桌面与媒体](#desktop) · [Minecraft 与开发工具](#minecraft) · [历史项目](#archive) · [组织建设](#organization)
+
+<!-- 仓库与镜像核对日期：2026-11-09。范围：14 个公开非 Fork 仓库，另纳入 MTR-YanYang 作为 Fork 特例。镜像存在不代表与 GitHub 实时同步。 -->
+
+<a id="web"></a>
+
+### 🌐 社区与网站
+
+#### YComm_WebSite · 晏阳社区服务端
+
+面向自托管的社区平台，将 **账号系统、论坛与资源下载区** 集成在一起。提供角色与访问权限管理、内容审核及通知能力，支持通过 Docker 部署。
+
+`TypeScript` `Next.js` `Hono` `PostgreSQL` · **AGPL-3.0-or-later**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/YComm_WebSite)
+[![Gitee Mirror](https://img.shields.io/badge/Gitee-Mirror-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/Yanyang-Technology-Group/YComm_WebSite)
+[![Gitea Mirror](https://img.shields.io/badge/Gitea-Mirror-609926?style=flat-square&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group/YComm_WebSite)
+
+#### YComm_Flutter · 晏阳社区客户端
+
+以 Flutter 构建的社区客户端，围绕 **社区、资源、消息与个人中心** 提供统一入口。支持讨论与回复、资源浏览与下载、GitHub 登录、主题切换和 WebSocket 通知，兼顾手机与宽屏布局。
+
+`Dart` `Flutter` `Material 3` `WebSocket` · **AGPL-3.0-or-later**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/YComm_Flutter)
+[![Gitee Mirror](https://img.shields.io/badge/Gitee-Mirror-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/Yanyang-Technology-Group/YComm_Flutter)
+[![Gitea Mirror](https://img.shields.io/badge/Gitea-Mirror-609926?style=flat-square&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group/YComm_Flutter)
+
+#### Yanyang_WebSite · 晏阳城市建设官网
+
+晏阳城市建设的官方形象网站，展示 **社区活动、城市规划与轨道交通创作**。采用响应式布局，提供双语内容、线路图与下载等页面。
+
+`TypeScript` `React` `Vite` `Tailwind CSS` · **GPLv3**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite)
+[![Gitee Mirror](https://img.shields.io/badge/Gitee-Mirror-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/Yanyang-Technology-Group/Yanyang_WebSite)
+[![Gitea Mirror](https://img.shields.io/badge/Gitea-Mirror-609926?style=flat-square&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group/Yanyang_WebSite)
+
+#### YTG_Website · 晏阳技术组展示网站
+
+集中介绍技术组、开源项目与多平台入口的响应式静态网站。提供 **项目分类筛选、项目详情与深浅色主题**，方便访客了解团队并找到对应仓库。
+
+`JavaScript` `React` `Vite` `Tailwind CSS` `DaisyUI` · **GPL-3.0-only**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/YTG_Website)
+
+<a id="desktop"></a>
+
+### 🧰 桌面与媒体
+
+#### YanynEmail · 晏阳邮箱
+
+基于 C++ 与 Qt 6 构建的桌面邮箱客户端，通过 Mailio 实现邮件收发。面向 **QQ 邮箱、163 邮箱、Outlook 与 Gmail** 等邮箱服务，延续晏阳邮箱从 Python 到 C++ 的开发探索。
+
+`C++` `Qt 6` `Mailio` `Boost` `OpenSSL` · **GPLv3**
+
 早期的 Java 直播处理项目，用于 RTMP 信号转 HLS / FLV 及字幕叠加。后续可关注桌面工具 **YLive-cpp**。
 
 `Java` `FFmpeg` · **GPLv3** · 已归档
@@ -29,24 +126,6 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode)
 
 </details>
-
-<a id="organization"></a>
-
-### 🪴 组织建设
-
-#### .github · 组织主页
-
-承载晏阳技术组的 GitHub 组织展示内容，集中介绍团队、项目与参与方式。组织主页内容位于 `profile/README.md`。
-
-`Markdown` · 组织资料仓库
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/.github)
-
-<div align="right">
-
-[返回项目导航 ↑](#projects)
-
-</div>
 
 ---
 
