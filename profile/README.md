@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=We%20are%20Y.T.G.&fontSize=70&color=0:BFE1FF,100:B678C4&stroke=B678C4" alt="We are Y.T.G." width="100%">
 
@@ -39,7 +39,7 @@
 
 **按用途找到你感兴趣的项目。** 每个项目均提供 GitHub 源码入口；已确认存在的平台镜像紧随其后。
 
-[社区与网站](#web) · [桌面与媒体](#desktop) · [Minecraft 与开发工具](#minecraft) · [历史项目](#archive) · [组织建设](#organization)
+[社区与网站](#web) · [桌面与媒体](#desktop) · [Minecraft 与开发工具](#minecraft) · [历史项目](#archive)
 
 <!-- 仓库与镜像核对日期：2026-11-09。范围：14 个公开非 Fork 仓库，另纳入 MTR-YanYang 作为 Fork 特例。镜像存在不代表与 GitHub 实时同步。 -->
 
@@ -95,6 +95,69 @@
 
 `C++` `Qt 6` `Mailio` `Boost` `OpenSSL` · **GPLv3**
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/YanynEmail)
+
+#### Yanyang_Craft_Launcher · 晏阳 Minecraft 启动器
+
+面向晏阳城市建设社区的 Minecraft 启动器项目，使用 **C++ 与 Qt** 开发。具体功能与可用版本以仓库说明及发布内容为准。
+
+`C++` `Qt` · **GPLv3**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher)
+
+#### YLive-cpp · 直播推流与转码工具
+
+面向 Windows 与 Linux 的 Qt 6 桌面工具，集中管理 **RTMP 服务、字幕烧录与 HLS 转码**。集成 FFmpeg、HTTP-FLV、HLS 播放和 FRP 配置入口，让推流与运行日志更易管理。
+
+`C++` `Qt 6` `FFmpeg` `CMake` · **GPLv3**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/YLive-cpp)
+
+<a id="minecraft"></a>
+
+### 🚆 Minecraft 与开发工具
+
+#### MTR-YanYang · MTR 晏阳优化版
+
+基于 Minecraft Transit Railway 4.0.5 的 **社区优化分支**，重点改善密集车站、轨道与列车场景中的渲染、内存分配及服务端重复计算。性能优化基线为 Minecraft 1.20.1 Fabric，并包含可选的 C++ 原生 OBJ 模型处理实现。
+
+`Java` `C++` `Fabric` `Gradle` · **MIT** · **Fork 特例收录**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/MTR-YanYang)
+[![Gitee Mirror](https://img.shields.io/badge/Gitee-Mirror-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/Yanyang-Technology-Group/MTR-YanYang)
+[![Gitea Mirror](https://img.shields.io/badge/Gitea-Mirror-609926?style=flat-square&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group/MTR-YanYang)
+
+> 感谢 [上游 Minecraft Transit Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) 的开发者。本项目为社区分支，兼容范围与下载版本请查看仓库 README 和 Releases。
+
+#### ColorfulSign · 彩色告示牌
+
+为 Minecraft Java 版服务器带来基岩版风格的 **文字颜色与格式化** 体验。通过 `&` 格式码、十六进制颜色和彩虹效果，让聊天、告示牌、物品名称与书籍等内容更有表现力。
+
+`Kotlin` `Paper API` `Gradle` · **GPLv3**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/ColorfulSign)
+[![Gitee Mirror](https://img.shields.io/badge/Gitee-Mirror-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/Yanyang-Technology-Group/ColorfulSign)
+[![Gitea Mirror](https://img.shields.io/badge/Gitea-Mirror-609926?style=flat-square&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group/ColorfulSign)
+
+#### parse_sparkprofile · spark 性能报告解析器
+
+使用 C 语言读取 Minecraft spark 的 `.sparkprofile` 原生 protobuf 数据，生成 **中文 Markdown 性能诊断报告**。覆盖运行环境、TPS / MSPT、热点方法、线程与调用树等信息，零第三方依赖，方便人工排查与后续自动化分析。
+
+`C11` `Protobuf 解析` `Make` · **MIT**
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/parse_sparkprofile)
+
+<a id="archive"></a>
+
+### 📦 历史项目
+
+以下仓库已归档，保留源码与版本演进记录，供学习和参考。
+
+<details>
+<summary><strong>展开查看：YLive 与三代 Python 晏阳邮箱</strong></summary>
+
+#### YLive · Java 版直播工具
+
 早期的 Java 直播处理项目，用于 RTMP 信号转 HLS / FLV 及字幕叠加。后续可关注桌面工具 **YLive-cpp**。
 
 `Java` `FFmpeg` · **GPLv3** · 已归档
@@ -126,6 +189,12 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode)
 
 </details>
+
+<div align="right">
+
+[返回项目导航 ↑](#projects)
+
+</div>
 
 ---
 
