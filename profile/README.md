@@ -215,9 +215,9 @@
 
 | 成员 | 角色 | 主要方向 | 一句话介绍 |
 | :--- | :--- | :--- | :--- |
-| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png?size=80" width="40" alt="深水6 的头像"></a><br>**[深水6](https://github.com/shenui6)** | 创始人 / 组长 / 全栈开发 / 子服运维 | 桌面软件、网站与服务器运维 | 定方向、写核心、挖新坑。 |
-| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png?size=80" width="40" alt="小白的头像"></a><br>**[小白](https://github.com/VasilyZa)** | 副组长 / 全栈开发 / 主服运维 | Minecraft 插件、模组与服务器运维 | 管理组员、维护服务器。 |
-| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png?size=80" width="40" alt="LeonMMcoset 的头像"></a><br>**[LeonMMcoset](https://github.com/Leonmmcoset)** | 前端 / 后端工程师 | 网站开发与技术支持 | 让晏阳网站功能更多。 |
+| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png?size=80" width="40" alt="深水6 的头像"></a><br>**[深水6](https://github.com/shenui6)** | 创始人 / 组长 / 全栈开发 / 子服运维 | 网页开发 / 桌面应用 | 定方向、写核心、挖新坑。 |
+| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png?size=80" width="40" alt="小白的头像"></a><br>**[小白](https://github.com/VasilyZa)** | 副组长 / 全栈开发 / 主服运维 / 资金管理 | MCMOD与Bukkit / 桌面应用 / 资金管理 / 服务器运维 | 管理组员、维护服务器。 |
+| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png?size=80" width="40" alt="LeonMMcoset 的头像"></a><br>**[LeonMMcoset](https://github.com/Leonmmcoset)** | 全栈开发 | 网页开发 / 桌面应用 / 工具开发 | 让晏阳网站功能更多。 |
 | <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png?size=80" width="40" alt="RAO_DIE 的头像"></a><br>**[RAO_DIE](https://github.com/SDFGTT)** | 建模师 | 模型制作 | 用最简单的软件做最细腻的模型。 |
 | <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png?size=80" width="40" alt="star 的头像"></a><br>**[star](https://github.com/star201-linux)** | 前端工程师 | 网站开发与技术支持 | 让晏阳网站细节更多。 |
 
