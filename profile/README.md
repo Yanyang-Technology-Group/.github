@@ -1,112 +1,114 @@
-![WE ARE YTG](https://capsule-render.vercel.app/api?type=venom&height=200&text=We%20are%20Y.T.G.&fontSize=70&color=0:BFE1FF,100:b678c4&stroke=b678c4)
+早期的 Java 直播处理项目，用于 RTMP 信号转 HLS / FLV 及字幕叠加。后续可关注桌面工具 **YLive-cpp**。
 
-# 晏阳技术组 (Yanyang Technology Group)
+`Java` `FFmpeg` · **GPLv3** · 已归档
 
-> **创新为骨，代码为韵** —— 打造优雅、高效、开源的数字工具。
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/YLive)
 
-[![GitHub Org Followers](https://img.shields.io/github/followers/Yanyang-Technology-Group?style=social)](https://github.com/Yanyang-Technology-Group) 
-[![团队愿景](https://img.shields.io/badge/愿景-创造卓越科技-6A5ACD)](https://github.com/Yanyang-Technology-Group) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group)
-[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMjUuNCAyMzcuMmMyMS44LTIxLjggNTcuMi0yMS44IDc5IDBsMTU2LjYgMTU2LjZjMjEuOCAyMS44IDIxLjggNTcuMiAwIDc5TDIwNC40IDYyOC41Yy0yMS44IDIxLjgtNTcuMiAyMS44LTc5IDBMMjguOCA0NzEuOWMtMjEuOC0yMS44LTIxLjgtNTcuMiAwLTc5bDk2LjYtOTYuNnoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMzQ5IDYyOC4xYzIxLjgtMjEuOCA1Ny4yLTIxLjggNzkgMGwxNTYuNiAxNTYuNmMyMS44IDIxLjggMjEuOCA1Ny4yIDAgNzlMNDI4IDk3OS4zYy0yMS44IDIxLjgtNTcuMiAyMS44LTc5IDBMMjUyLjQgODIzYy0yMS44LTIxLjgtMjEuOC01Ny4yIDAtNzlMMzQ5IDYyOC4xeiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik05OTUuNiA1Mi41Yy0yMS44LTIxLjgtNTcuMi0yMS44LTc5IDBsLTE1Ni42IDE1Ni42Yy0yMS44IDIxLjgtMjEuOCA1Ny4yIDAgNzlMOTE2LjYgNDQzLjhjMjEuOCAyMS44IDU3LjIgMjEuOCA3OSAwbDk2LjYtOTYuNmMyMS44LTIxLjggMjEuOC01Ny4yIDAtNzlMOTk1LjYgNTIuNXoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNzcxLjggNDQzLjRjMjEuOC0yMS44IDU3LjItMjEuOCA3OSAwbDE1Ni42IDE1Ni42YzIxLjggMjEuOCAyMS44IDU3LjIgMCA3OWwtOTYuNiA5Ni42Yy0yMS44IDIxLjgtNTcuMiAyMS44LTc5IDBMNjc0LjIgNjE5LjFjLTIxLjgtMjEuOC0yMS44LTU3LjIgMC03OWw5Ny42LTk2Ljd6Ii8+PC9zdmc+&logoColor=white)](https://gitee.com/organizations/Yanyang-Technology-Group)
-[![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white)](https://gitea.com/Yanyang-Technology-Group/)
----
+#### Yanyn_Email.PyTheFirst · 初代 Python 晏阳邮箱
 
-## 关于我们
+晏阳邮箱最早的 Python 实现，记录了邮件收发、后台线程与 HTML / 纯文本邮件处理等功能的早期探索。
 
-晏阳科技集团是一个专注于 **基础软件**、**开发者工具** 与 **创意应用** 的技术团队。我们相信优雅的代码能构筑长久价值，并致力于开源生态的持续贡献。  
+`Python` · **GPLv3** · 已归档
 
-从邮箱客户端到游戏启动器，从城市门户网站到跨平台工具，我们保持好奇，不断迭代。
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst)
+
+#### Yanyn_Email.PyTheNewCode · 第二代 Python 晏阳邮箱
+
+晏阳邮箱的第二版 Python 实现，延续早期客户端功能，并对界面与托盘退出行为进行调整和修复。
+
+`Python` · **GPLv3** · 已归档
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode)
+
+#### Yanyn_Email.PyReNewCode · 第三代 Python 晏阳邮箱
+
+晏阳邮箱的第三版 Python 实现，继续完善 SSL 端口、自定义 SMTP 服务器、线程处理与邮箱信息展示，保留向后续版本演进的开发记录。
+
+`Python` · **GPLv3** · 已归档
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode)
+
+</details>
+
+<a id="organization"></a>
+
+### 🪴 组织建设
+
+#### .github · 组织主页
+
+承载晏阳技术组的 GitHub 组织展示内容，集中介绍团队、项目与参与方式。组织主页内容位于 `profile/README.md`。
+
+`Markdown` · 组织资料仓库
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanyang-Technology-Group/.github)
+
+<div align="right">
+
+[返回项目导航 ↑](#projects)
+
+</div>
 
 ---
 
 ## 技术生态
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+围绕项目需求选择工具，让技术服务于实际体验。
 
----
+| 领域 | 常用技术 |
+| :--- | :--- |
+| Web 与社区 | TypeScript · JavaScript · React · Next.js · Hono · Vite · Tailwind CSS · PostgreSQL |
+| 跨平台应用 | C++ · Qt · Dart · Flutter · Python |
+| 游戏与工具 | Java · Kotlin · C · Fabric · Paper API · FFmpeg |
+| 构建与协作 | Git · CMake · Gradle · Docker · GitHub Actions |
 
-## 核心项目
-
-| 项目名称 | 技术栈 | 一句话简介 | 许可证 | 状态 |
-|---------|-----|-----------|------|--|
-| [YComm_WebSite](https://github.com/Yanyang-Technology-Group/YComm_WebSite) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 晏阳自托管社区平台源码 — 账号系统 / 论坛 / 下载区，单容器部署。 | [AGPL-3.0](https://github.com/Yanyang-Technology-Group/YComm_WebSite/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-| [YComm_Flutter](https://github.com/Yanyang-Technology-Group/YComm_Flutter) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) | 晏阳社区 Flutter 客户端，支持主题切换、GitHub 登录与 WebSocket 通知。 | [AGPL-3.0](https://github.com/Yanyang-Technology-Group/YComm_Flutter/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-| [Yanyang_WebSite](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white) | 晏阳城市建设官网源码 — 现代、轻量、响应式。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/Yanyang_WebSite/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-| [Yanyang_Craft_Launcher](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | 优雅的《我的世界》第三方启动器，为晏阳社区定制。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/Yanyang_Craft_Launcher/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/开发-yellow) |
-| [YanynEmail](https://github.com/Yanyang-Technology-Group/YanynEmail) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) | “A Great And Perfect Mail Client” 新版C++晏阳邮箱软件，使用Qt跨平台框架制作。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/YanynEmail/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/开发-yellow) |
-| [YLive](https://github.com/Yanyang-Technology-Group/YLive) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | 将Rtmp信号转换成HLS/FLV，并在左下角添加字幕。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/YLive/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [YLive-cpp](https://github.com/Yanyang-Technology-Group/YLive-cpp) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | RTMP 直播推流、字幕烧录与 HLS 转码桌面工具。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/YLive-cpp/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-| [Yanyn_Email.PyReNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 第三代迭代，持续打磨邮件体验。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyReNewCode/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [Yanyn_Email.PyTheNewCode](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 第二代晏阳邮箱软件，重构更流畅。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheNewCode/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [Yanyn_Email.PyTheFirst](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 初代晏阳邮箱 — 初心之作。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/Yanyn_Email.PyTheFirst/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/归档-lightgrey) |
-| [ColorfulSign](https://github.com/Yanyang-Technology-Group/ColorfulSign) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PaperAPI](https://img.shields.io/badge/Paper_API-1C8B9C?style=flat-square&logo=paper&logoColor=white) | Minecraft Paper 插件，聊天 Team 前缀后缀与旧式格式码支持。 | [GPL-3.0](https://github.com/Yanyang-Technology-Group/ColorfulSign/blob/main/LICENSE) | ![Status](https://img.shields.io/badge/活跃-brightgreen) |
-
-大部分仓库均遵循 GPL-3.0 协议，欢迎 Fork、Star 与贡献。
-
----
-
-## 开源许可证
-
-除非另有说明，本组织所有项目均采用 **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**。  
-自由使用，保持开放。
-
----
-
-## 未来规划
-
-- 1.晏阳社区网页上线
-- 2.晏阳轨道交通网页上线 
-- 3.晏阳技术组网页上线
-- 4.晏阳我的世界启动器上线
-- 5.xxxxxx
-
----
+<a id="team"></a>
 
 ## 核心成员
 
----
-
-| 成员 | 角色 | 主要贡献领域 | 一句话介绍 |
+| 成员 | 角色 | 主要方向 | 一句话介绍 |
 | :--- | :--- | :--- | :--- |
-| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png" width="50" style="border-radius: 50%;"></a> **[@深水6](https://github.com/shenui6)** | 创始人 / 组长 / 子服运维 / 前端工程师 / 后端工程师 | PC端软件开发 / 网站服务器运维 | 定方向、写核心、挖新坑。 |
-| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png" width="50" style="border-radius: 50%;"></a> **[@小白](https://github.com/VasilyZa)** | 副组长 / 主服运维 / 前端工程师 / 后端工程师 | MC插件、模组等开发 | 管理组员、服务器运维。 |
-| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png" width="50" style="border-radius: 50%;"></a> **[@LeonMMcoset](https://github.com/Leonmmcoset)** | 前端工程师 / 后端工程师 | 网站 / 技术支持 | 让晏阳网站功能更多。 |
-| <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png" width="50" style="border-radius: 50%;"></a> **[@RAO_DIE](https://github.com/SDFGTT)** | 建模师 | 建模 | 用最简单的软件做最细腻的模型。 |
-| <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png" width="50" style="border-radius: 50%;"></a> **[@star](https://github.com/star201-linux)** | 前端工程师 | 网站 / 技术支持 | 让晏阳网站细节更多。 |
+| <a href="https://github.com/shenui6"><img src="https://github.com/shenui6.png?size=80" width="40" alt="深水6 的头像"></a><br>**[深水6](https://github.com/shenui6)** | 创始人 / 组长 / 全栈开发 / 子服运维 | 桌面软件、网站与服务器运维 | 定方向、写核心、挖新坑。 |
+| <a href="https://github.com/VasilyZa"><img src="https://github.com/VasilyZa.png?size=80" width="40" alt="小白的头像"></a><br>**[小白](https://github.com/VasilyZa)** | 副组长 / 全栈开发 / 主服运维 | Minecraft 插件、模组与服务器运维 | 管理组员、维护服务器。 |
+| <a href="https://github.com/Leonmmcoset"><img src="https://github.com/Leonmmcoset.png?size=80" width="40" alt="LeonMMcoset 的头像"></a><br>**[LeonMMcoset](https://github.com/Leonmmcoset)** | 前端 / 后端工程师 | 网站开发与技术支持 | 让晏阳网站功能更多。 |
+| <a href="https://github.com/SDFGTT"><img src="https://github.com/SDFGTT.png?size=80" width="40" alt="RAO_DIE 的头像"></a><br>**[RAO_DIE](https://github.com/SDFGTT)** | 建模师 | 模型制作 | 用最简单的软件做最细腻的模型。 |
+| <a href="https://github.com/star201-linux"><img src="https://github.com/star201-linux.png?size=80" width="40" alt="star 的头像"></a><br>**[star](https://github.com/star201-linux)** | 前端工程师 | 网站开发与技术支持 | 让晏阳网站细节更多。 |
 
- 成员列表持续更新中。欢迎未来的你加入此表！
+成员列表持续更新，也期待未来的你。
+
+## 持续推进
+
+- **社区体验**：持续完善晏阳社区网页与客户端，让讨论、资源分享和消息触达更加顺畅。
+- **网站建设**：推进城市建设、轨道交通与技术组网站的内容和体验完善。
+- **桌面工具**：继续打磨晏阳邮箱、Minecraft 启动器与直播工具。
+- **开源协作**：完善文档、问题反馈与构建流程，让项目更容易使用和参与。
+
+<a id="contribute"></a>
+
+## 参与贡献
+
+欢迎开发者、设计师、建模师，以及每一位愿意分享想法的使用者。
+
+1. **发现问题**：在对应项目的 Issues 中描述复现步骤、使用环境与预期行为。
+2. **提交改进**：阅读仓库中的贡献说明，提交代码、文档、翻译或设计建议。
+3. **支持项目**：为喜欢的仓库点亮 Star，或向有需要的人分享。
+
+**官方网站**：[tech.yanyn.cn](https://tech.yanyn.cn)  
+**联系邮箱**：[techgroup@yanyn.cn](mailto:techgroup@yanyn.cn)
+
+## 开源与许可
+
+各项目采用独立的许可证：社区服务端与客户端采用 **AGPL-3.0-or-later**，MTR-YanYang 与 parse_sparkprofile 采用 **MIT**，其余已标明许可的软件项目主要采用 **GPLv3**。使用、修改与分发时，请以各仓库的许可证文件及相关声明为准。
+
+项目功能、版本兼容范围及发布状态以对应仓库的最新说明为准。镜像可能存在同步延迟，最新源码与发布信息请优先查看 GitHub。
 
 ---
 
-## 加入我们
+<div align="center">
 
-晏阳科技始终欢迎热忱的开发者、设计师与贡献者。  
+**晏阳初升，代码不息。**
 
--  官方网站：tech.yanyn.cn
--  联系邮箱：`techgroup@yanyn.cn`  
--  点亮 Star，让更多人看见开源的美好  
+让我们一起构建更好的数字世界。
 
+[探索 GitHub 组织 →](https://github.com/Yanyang-Technology-Group)
 
----
-
-<p align="center">
-  <i>晏阳初升，代码不息 —— 让我们一起构建更好的数字世界。</i><br>
-  <a href="https://github.com/Yanyang-Technology-Group"><strong>探索组织 »</strong></a>
-</p>
+</div>
