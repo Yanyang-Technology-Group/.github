@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=We%20are%20Y.T.G.&fontSize=70&color=0:BFE1FF,100:B678C4&stroke=B678C4" alt="We are Y.T.G." width="100%">
 
